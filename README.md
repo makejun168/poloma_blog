@@ -1,12 +1,12 @@
-# poloma_blog
-老马的前端博客
+# 开源以及个人项目
++ https://github.com/makejun168/leetCodeSolution 个人LeetCode刷题目仓库
++ https://github.com/makejun168/Summary 个人工作总结（更新严重滞后）
++ https://github.com/makejun168/lodash-analysis 分析lodash源码 用
++ https://github.com/makejun168/NetEase-Cloud-Small-Program 网易云音乐小程序
++ https://github.com/makejun168/mini-shop 小程序商城
++ https://github.com/makejun168/Python-study 记录 Python 学习历程
++ https://github.com/makejun168/Flex Flex 记录 Flex 布局学习历程
 
-## 前言
-* [x] 阿里云服务器购买 服务器配置
-* [ ] 数据库表设计
-* [ ] 后端接口API开发
-* [ ] 后端业务部署
-* [ ] 前端管理后台开发
-* [ ] 前端页面开发
-* [ ] 前端项目优化
-* [ ] Todo CheckList
+
+
+# 前端工程化

@@ -6,7 +6,7 @@
 + https://github.com/makejun168/mini-shop 小程序商城
 + https://github.com/makejun168/Python-study 记录 Python 学习历程
 + https://github.com/makejun168/Flex Flex 记录 Flex 布局学习历程
-
-
++ https://github.com/makejun168/typescript 记录TypeScript 学习历程
 
 # 前端工程化
+
